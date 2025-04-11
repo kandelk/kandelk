@@ -1,16 +1,30 @@
 ## Hi there 👋
 
-<!--
-**kandelk/kandelk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm glad you stopped by! Here's a bit about me:
 
-Here are some ideas to get you started:
+🎓 **Education & Background**  
+I'm currently pursuing a PhD at the **National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute”**, where I also completed my Bachelor's and Master's degrees.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 **Interests & Learning**  
+- 🌐 Exploring **AI technologies**, especially **AI agents**  
+- ☁️ Passionate about **cloud computing**, especially with **AWS**  
+- 📊 Looking forward to diving deeper into **Big Data** technologies
+
+💻 **Tech Stack**  
+- **Cloud:** AWS  
+- **Languages:** Java / Scala, Python, SQL  
+- **Big Data & Pipelines:** Apache Spark, Apache Airflow / Dagster  
+- **Containerization & Orchestration:** Kubernetes
+
+🛠️ **Hobbies & Fun Stuff**  
+- 🏓 Love playing **table tennis**  
+- 🎮 Enjoy **computer games**  
+- 🌳 Like going for **walks** or hanging out with friends  
+- ✈️ Want to try **traveling** more!
+
+👤 **About Me**  
+- Pronouns: **he/him**  
+- Personality: Friendly, honest, a bit shy, and (allegedly) funny 😄
+
+📫 **Let’s Connect**  
+Feel free to connect or reach out if you have similar interests or want to collaborate on something cool!
